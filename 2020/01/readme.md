@@ -1,4 +1,4 @@
-## [v0.0.21](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
+## [v0.0.22](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
 ### [激励1亿人的施瓦辛格演讲，成功从来都是有原因的 2020/1/18](https://mp.weixin.qq.com/s/X8GV8vr7PiQR9ze1nFQXNg)
 ### [TED演讲 | 改善工作的快乐之道！ 2020/1/18](https://mp.weixin.qq.com/s/X8GV8vr7PiQR9ze1nFQXNg)
 
@@ -19,3 +19,7 @@
 ### [TED演讲 | 重温乔布斯最经典演讲: Stay hungry. Stay Foolish. 2020/1/10](https://mp.weixin.qq.com/s/rp2iyTmVOTAd4HgpNuRz2A)
 
 ### [TED演讲 | 出人意料的工作动机 2020/1/9](https://mp.weixin.qq.com/s/9kKKJhxOQFdtUeNoa6dxrA)
+
+### [TED演讲 | 12生肖详解：你的属相星座是怎样影响你的生活的？ 2020/1/8](https://mp.weixin.qq.com/s/EujFlwM7W_f_l-GwdRGLGA)
+
+### [TED演讲 | 冷漠的解药"People don't care" 2020/1/6](https://mp.weixin.qq.com/s/RrioGzye0JSldIb9C2P7Jg)
