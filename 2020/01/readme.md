@@ -1,4 +1,4 @@
-## [v0.0.22](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
+## [v0.0.23](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
 ### [激励1亿人的施瓦辛格演讲，成功从来都是有原因的 2020/1/18](https://mp.weixin.qq.com/s/X8GV8vr7PiQR9ze1nFQXNg)
 ### [TED演讲 | 改善工作的快乐之道！ 2020/1/18](https://mp.weixin.qq.com/s/X8GV8vr7PiQR9ze1nFQXNg)
 
@@ -23,3 +23,14 @@
 ### [TED演讲 | 12生肖详解：你的属相星座是怎样影响你的生活的？ 2020/1/8](https://mp.weixin.qq.com/s/EujFlwM7W_f_l-GwdRGLGA)
 
 ### [TED演讲 | 冷漠的解药"People don't care" 2020/1/6](https://mp.weixin.qq.com/s/RrioGzye0JSldIb9C2P7Jg)
+
+### [TED演讲 | 如果没有工作，我们怎样才能赚钱？ 2020/1/5](https://mp.weixin.qq.com/s/iJERw2K7lmLXZrCO7X_q4g)
+
+### [TED演讲 | 你与真实的自己有多远？ 2020/1/4](https://mp.weixin.qq.com/s/TFrj16xfRlUts6OkPFdniQ)
+
+### [英国卫报一分钟励志短片《希望的力量》，被震撼到了！ 2020/1/3](https://mp.weixin.qq.com/s/TFrj16xfRlUts6OkPFdniQ)
+### [TED演讲 | 癌症将不再是不治之症！ 2020/1/3](https://mp.weixin.qq.com/s/TFrj16xfRlUts6OkPFdniQ)
+
+### [TED演讲 | 我们品尝食物时，大脑发生了什么？ 2020/1/2](https://mp.weixin.qq.com/s/07vdyNGtWNW37SW-ZlfzoA)
+
+### [TED演讲 | 地球上任何角落都可以精准定位！ 2020/1/1](https://mp.weixin.qq.com/s/LuQJqbv38rZYUT3VRsBT_A)
