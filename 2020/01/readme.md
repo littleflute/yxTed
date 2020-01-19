@@ -1,4 +1,4 @@
-## [v0.0.23](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
+## [v0.0.24](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
 ### [激励1亿人的施瓦辛格演讲，成功从来都是有原因的 2020/1/18](https://mp.weixin.qq.com/s/X8GV8vr7PiQR9ze1nFQXNg)
 ### [TED演讲 | 改善工作的快乐之道！ 2020/1/18](https://mp.weixin.qq.com/s/X8GV8vr7PiQR9ze1nFQXNg)
 
@@ -33,4 +33,4 @@
 
 ### [TED演讲 | 我们品尝食物时，大脑发生了什么？ 2020/1/2](https://mp.weixin.qq.com/s/07vdyNGtWNW37SW-ZlfzoA)
 
-### [TED演讲 | 地球上任何角落都可以精准定位！ 2020/1/1](https://mp.weixin.qq.com/s/LuQJqbv38rZYUT3VRsBT_A)
+### [TED演讲 | 地球上任何角落都可以精准定位！ 2020/1/1](https://mp.weixin.qq.com/s/LuQJqbv38rZYUT3VRsBT_A) [yt](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
