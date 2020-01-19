@@ -10,3 +10,8 @@
 
 ### [为什么说“太努力”的人，通常都走不远？ 2020/1/13](https://mp.weixin.qq.com/s/c8FQSKejT3b3ZvcbWycsqQ)
 ### [TED演讲 | 我如何用艺术来消散误解 2020/1/13](https://mp.weixin.qq.com/s/zCWYKngx29cWQLRQh-g63g)
+
+### [TED演讲 | 是什么让事情变得像病毒一样迅速传播 2020/1/12](https://mp.weixin.qq.com/s/SL3rmlpFayfGNDg8Ml7Oqg)
+
+### [双语｜马云在马来西亚全英文演讲：别人的抱怨就是你的机会！ 2020/1/11](https://mp.weixin.qq.com/s/ZPYhw-cm19Nl0cfdwWBhOQ)
+### [TED演讲 | 尽力了还是做不好？为什么？ 2020/1/11](https://mp.weixin.qq.com/s/tMzeeiUEZLt-m6XAMnjXRQ)
