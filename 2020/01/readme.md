@@ -1,4 +1,10 @@
-## [v0.0.25](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
+﻿## [v0.0. 31 ](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
+
+
+### [TED演讲 | 国际知名HR专家：面试官最看重的是什么？2020/1/21](https://mp.weixin.qq.com/s/3JKN6FZvDJkUXHVCHEoOiA)
+### [TED演讲 | 为什么要在工作日吃素？2020/1/20](https://mp.weixin.qq.com/s/OTwr7VQ795WOBoJHemiCsg)
+### [TED演讲 | 提高批判性思维的5个步骤2020/1/19](https://mp.weixin.qq.com/s/Le5x8KTDOJnqirgLkjG45g)
+
 ### [激励1亿人的施瓦辛格演讲，成功从来都是有原因的 2020/1/18](https://mp.weixin.qq.com/s/X8GV8vr7PiQR9ze1nFQXNg)
 ### [TED演讲 | 改善工作的快乐之道！ 2020/1/18](https://mp.weixin.qq.com/s/X8GV8vr7PiQR9ze1nFQXNg)
 
