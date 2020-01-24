@@ -1,4 +1,4 @@
-﻿## [v0.0. 31 ](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md)
+﻿## [v0.0. 32 ](https://github.com/littleflute/yxTed/edit/master/2020/01/readme.md) [..](..)
 
 
 ### [TED演讲 | 国际知名HR专家：面试官最看重的是什么？2020/1/21](https://mp.weixin.qq.com/s/3JKN6FZvDJkUXHVCHEoOiA)
